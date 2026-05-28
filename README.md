@@ -1,7 +1,5 @@
-**DLP-proxy-bypass
+#**DLP-proxy-bypass Overview
 **
-Overview
-
 This repository contains assessment methodologies, controlled testing scripts, and supporting documentation used during authorized security assessments to validate:
 
 - Proxy enforcement behavior
