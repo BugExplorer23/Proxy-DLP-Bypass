@@ -5,20 +5,19 @@ Python 3.x
 pip 
 Flask
 
-Install Python Download and install Python from: https://python.org (For a wndoes system you can directly nstall python from Microsoft Store)
+Install Python Download and install Python from: https://python.org (For a windoes system you can directly install python from Microsoft Store as displayed below)
 <img width="1201" height="948" alt="image" src="https://github.com/user-attachments/assets/342806ae-b602-4c90-b41a-4691cd077836" />
 <img width="600" height="473" alt="00" src="https://github.com/user-attachments/assets/5058c01f-fcb2-4a2a-9f08-94360cd846af" />
 <img width="601" height="473" alt="000" src="https://github.com/user-attachments/assets/8f695acf-d285-4b7c-a6eb-5c0785aa4a3a" />
 
-Once Python is installed verify the installation by executng below command in cmd.
-
+Once Python is installed verify the installation by executing below command in cmd.
 python
 
 <img width="675" height="218" alt="01" src="https://github.com/user-attachments/assets/01c39718-06f5-428c-be5d-1ce119b7fcae" />
 <img width="675" height="219" alt="02" src="https://github.com/user-attachments/assets/4b4eb478-e9af-4f70-8da5-686f4fa5e25a" />
 
 
-Now pen cmd/ terminal and run the below command to install Flask 
+Now open cmd/ terminal and run the below command to install Flask 
 pip install flask
 <img width="675" height="199" alt="03" src="https://github.com/user-attachments/assets/1e368b5a-dad3-41c2-8eb6-bb1b73bf0e6a" />
 <img width="676" height="360" alt="04" src="https://github.com/user-attachments/assets/c5aa3b00-1664-4e1a-aef1-6d3afd2295dc" />
@@ -52,7 +51,7 @@ Once accessed, the webpage with the file upload functionality should be visible.
 Now you can click on choose file opton in web page and select the file that needs to be uploaded and click on open.
 <img width="960" height="474" alt="120" src="https://github.com/user-attachments/assets/3e6aa04a-26f2-4889-a718-b8c8e6b417d0" />
 
-Once the file is selected, click on Upload button n web page.
+Once the file is selected, click on Upload button in web page.
 <img width="960" height="238" alt="121" src="https://github.com/user-attachments/assets/d43df1fb-1d82-4fa2-b2f2-4cff05e6493a" />
 
 You can see that the web application responds with a message, File uploaded successfully.
